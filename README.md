@@ -10,7 +10,7 @@ After the AP Exam you are expected to use your class time productively. If you h
     + [Think Java online interactive Java course](https://books.trinket.io/thinkjava/)
     + [Codecademy Java course](https://www.codecademy.com/learn/learn-java)
     + [SJSU intro to Java programming](https://www.udacity.com/course/intro-to-java-programming--cs046)
-+ Learn to code music in Ruby with Sonic Pi and this [free eBook](https://www.raspberrypi.org/magpi/issues/essentials-sonic-pi-v1/)
++ Learn to code music in Ruby with Sonic Pi with this [free eBook](https://www.raspberrypi.org/magpi/issues/essentials-sonic-pi-v1/)
 + Write computer programs to solve math problems at [Project Euler](https://projecteuler.net/)
 + [Learn Unity](https://unity3d.com/learn), a 3d environment for programming games and 3d graphics.
 + Program an Arduino or a Raspberry Pi using Processing.
