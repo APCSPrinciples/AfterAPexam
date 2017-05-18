@@ -6,7 +6,10 @@ After the AP Exam you are expected to use your class time productively. If you h
 + Learn more [Python on the Code Academy](https://www.codecademy.com/learn/python) and/or [codingbat](http://codingbat.com/python)
 + Watch a [video to learn how to build a CAT5 or CAT6 cable](https://www.youtube.com/watch?v=lullzS740wI), then build your own
 + Read [XKCD](https://xkcd.com/) cartoons
-+ Taking AP Java next year? Take a free online Java course: [Think Java online interactive Java course](https://books.trinket.io/thinkjava/), [Codecademy Java course](https://www.codecademy.com/learn/learn-java), [SJSU intro to Java programming](https://www.udacity.com/course/intro-to-java-programming--cs046)
++ Taking AP Java next year? Take a free online Java course: 
+    + [Think Java online interactive Java course](https://books.trinket.io/thinkjava/)
+    + [Codecademy Java course](https://www.codecademy.com/learn/learn-java)
+    + [SJSU intro to Java programming](https://www.udacity.com/course/intro-to-java-programming--cs046)
 + Learn to code music in Ruby with Sonic Pi and this [free eBook](https://www.raspberrypi.org/magpi/issues/essentials-sonic-pi-v1/)
 + Write computer programs to solve math problems at Project Euler
 + Learn Unity, a 3d environment for programming games and 3d graphics.
