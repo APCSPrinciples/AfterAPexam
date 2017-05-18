@@ -14,6 +14,6 @@ After the AP Exam you are expected to use your class time productively. If you h
 + Make your own 2048 game
 + Learn data visualizations
 + Use a Makey Makey
-+ Program a Parallax Arduino robot. The Parallax robots have an [excellent and easy to follow guide]  (https://www.parallax.com/downloads/board-education-shield-arduino-product-guide)
++ Program a Parallax Arduino robot. The Parallax robots have an [excellent and easy to follow guide](https://www.parallax.com/downloads/board-education-shield-arduino-product-guide)
 + The [Tinkercad tutorials](https://www.tinkercad.com/quests/) are self-guided and you could print your project on the 3d printer
 You are not limited to these suggestions. Choose a project that will engage you, have fun and be creative!
