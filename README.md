@@ -2,6 +2,7 @@ After the AP exam
 =================
 
 After the AP Exam you are expected to use your class time productively. If you have any unfinished assignments you should finish those first. If you've completed all your assignments you are welcome to choose how you use your time as long as you are working on something related to computer science. You are welcome to work by yourself or with a partner. Here are some suggestions:
++ Code an app for the [2020 Congressional App Challenge](https://www.congressionalappchallenge.us/students/student-registration/?mc_cid=392344e4a0&mc_eid=c7ca3e1291)
 + Form a team of up to 4 students and compete in the [HSCTF hacking competition](https://hsctf.com/)
 + Learn about making websites at [Code Academy's html and css course](https://www.codecademy.com/learn/web)
 + Learn about data science in Python at [Data camp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
